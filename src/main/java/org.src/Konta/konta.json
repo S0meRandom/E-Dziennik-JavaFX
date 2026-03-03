@@ -1,0 +1,20 @@
+[
+  {
+    "haslo": "$2a$10$SXN5Vcjl0XkW2UGs2Ys18.9dszwH68ckDJpJyTcu/NFwkLcnzPRZu",
+    "login": "TestU",
+    "rola": "UCZEN",
+    "id": 3
+  },
+  {
+    "haslo": "$2a$10$nU4qWiQ6juW.e8boFUeSr.FPMeKEwAp80ZBNBB8./kENTJff8DlUi",
+    "login": "TestN",
+    "rola": "NAUCZYCIEL",
+    "id": 4
+  },
+  {
+    "haslo": "$2a$10$fIAF0k5O5SpXLFxBTQow/.bRRQUgRDM5/0r4WJHJM0qp6zV0wXUwG",
+    "login": "TestA",
+    "rola": "ADMIN",
+    "id": 5
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "nazwa": "Brak",
+    "planZajec": {}
+  },
+  {
+    "nazwa": "4A",
+    "planZajec": {
+      "Matematyka": 4
+    }
+  },
+  {
+    "nazwa": "3A",
+    "planZajec": {
+      "Matematyka": 4
+    }
+  }
+]

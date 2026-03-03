@@ -1,0 +1,11 @@
+[
+  {
+    "imie": "TestUczen",
+    "nazwisko": "Test",
+    "klasa": {
+      "nazwa": "Brak"
+    },
+    "oceny": {},
+    "userId": 3
+  }
+]
